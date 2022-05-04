@@ -1,4 +1,5 @@
 # lifelogParser
 
+Language : java 8
 
-for LifeLog(HR, STEPS, GPS ...) Data Paring the JSON or XML File
+methods : for LifeLog(HR, STEPS, GPS ...) Data Paring the JSON and XML Style File
